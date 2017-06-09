@@ -4,7 +4,7 @@
 
 ### Example Usage
 ```bash
-# Saves the MIT license text from spdx to LICENSE
+# Saves the MIT license text from https://spdx.org/ to LICENSE
 get-license MIT > LICENSE
 ```
 

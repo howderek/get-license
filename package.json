@@ -1,6 +1,6 @@
 {
   "name": "get-license",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to get license text",
   "main": "index.js",
   "repository": "https://github.com/howderek/get-license",
