@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+/* SPDX-License-Identifier: MIT */
 
 var program = require('commander')
 var request = require('request')
