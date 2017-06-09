@@ -13,5 +13,6 @@
   },
   "bin": {
     "get-license": "index.js"
-  }
+  },
+  "preferGlobal": true
 }
