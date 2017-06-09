@@ -1,0 +1,17 @@
+{
+  "name": "get-license",
+  "version": "1.0.0",
+  "description": "CLI to get license text",
+  "main": "index.js",
+  "repository": "https://github.com/howderek/get-license",
+  "author": "Derek Howard",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "commander": "^2.9.0",
+    "request": "^2.81.0"
+  },
+  "bin": {
+    "get-license": "index.js"
+  }
+}
